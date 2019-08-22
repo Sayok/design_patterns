@@ -1,6 +1,7 @@
-##Design Patterns in Object Oriented Programming
+## Design Patterns in Object Oriented Programming
 
-##Resources:
+
+## Resources:
 
 https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
 
